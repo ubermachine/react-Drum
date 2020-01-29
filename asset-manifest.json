@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-Drum/static/css/main.4f9b412e.chunk.css",
+    "main.js": "/react-Drum/static/js/main.db81eb7f.chunk.js",
+    "main.js.map": "/react-Drum/static/js/main.db81eb7f.chunk.js.map",
+    "runtime-main.js": "/react-Drum/static/js/runtime-main.57b0c446.js",
+    "runtime-main.js.map": "/react-Drum/static/js/runtime-main.57b0c446.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/react-Drum/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.4623c7fa.chunk.js": "/react-Drum/static/js/2.4623c7fa.chunk.js",
+    "static/js/2.4623c7fa.chunk.js.map": "/react-Drum/static/js/2.4623c7fa.chunk.js.map",
+    "index.html": "/react-Drum/index.html",
+    "precache-manifest.124daf0b8385062ba61bba149d0d994a.js": "/react-Drum/precache-manifest.124daf0b8385062ba61bba149d0d994a.js",
+    "service-worker.js": "/react-Drum/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/react-Drum/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.4f9b412e.chunk.css.map": "/react-Drum/static/css/main.4f9b412e.chunk.css.map",
+    "static/js/2.4623c7fa.chunk.js.LICENSE": "/react-Drum/static/js/2.4623c7fa.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.57b0c446.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.4623c7fa.chunk.js",
+    "static/css/main.4f9b412e.chunk.css",
+    "static/js/main.db81eb7f.chunk.js"
+  ]
+}
